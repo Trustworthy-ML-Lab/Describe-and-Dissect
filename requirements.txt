@@ -1,0 +1,27 @@
+torch==2.5.1
+torchvision==0.20.1
+tqdm >= 4.65.0
+black >= 23.1.0
+isort >= 5.12.0
+pandas >= 1.5.3
+matplotlib >= 3.5.1
+huggingface-hub >= 0.26.5
+jupyter
+notebook
+ftfy
+regex
+sentence-transformers >= 3.0.1
+diffusers >= 0.32.2
+accelerate
+transformers >= 4.37.0
+scipy
+tornado >= 5.1.1
+scikit-learn >= 0.24.2
+opencv-python
+openai
+easydict
+numpy
+Pillow
+requests
+evaluate
+bert_score

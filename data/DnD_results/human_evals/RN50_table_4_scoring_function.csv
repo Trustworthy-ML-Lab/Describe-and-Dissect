@@ -1,0 +1,201 @@
+Layer,Unit,Mean Caption Label,Topk-Sq Caption Label,Image-Products Label,Topk-Compare Label,Mean Caption E1 Rating,Topk-Sq E1 Rating,Image-Products E1 Rating,Topk-Compare E1 Rating,Mean Caption E2 Rating,Topk-Sq E2 Rating,Image-Products E2 Rating,Topk-Compare E2 Rating,Uninterpretable E1,None E1,Uninterpretable E2,None E2
+1,10,Red and white objects,Red and white patterns,Red and white patterns,Red and white patterns,3,5,5,5,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+1,13,darkness,darkness,muted,black color,5,5,5,5,5,5,4,5,FALSE,FALSE,FALSE,FALSE
+1,20,Black and white lettering,Black and white lettering,stripes,stripes,1,1,5,5,1,1,5,5,FALSE,FALSE,FALSE,FALSE
+1,22,The left side of objects,The left side of objects,Monochrome and patterns,grid,1,1,5,2,1,1,3,5,FALSE,FALSE,FALSE,FALSE
+1,29,Black and white patterns,Black and white patterns,Black and white patterns,Black and white patterns,1,1,1,1,4,4,4,4,FALSE,TRUE,FALSE,FALSE
+1,33,Animal and color motifs,Brighter areas in objects,striped,Animal and color motifs,5,4,1,5,4,3,3,4,FALSE,FALSE,FALSE,FALSE
+1,36,candle,Red colored objects,chequered,Red colored objects,1,1,1,1,2,5,1,5,FALSE,TRUE,FALSE,FALSE
+1,38,Fluorescent blue and green objects,Fluorescent blue and green objects,Fluorescent blue and green objects,Fluorescent blue and green objects,5,5,5,5,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+1,43,Black and white colored objects,Black and white colored objects,Black and white patterns,Black and white colored objects,1,1,1,1,4,4,4,4,FALSE,TRUE,FALSE,FALSE
+1,46,White dots outlining objects,White dots outlining objects,Spots of the color white,White dots outlining objects,1,1,1,1,1,1,2,1,FALSE,TRUE,FALSE,TRUE
+1,56,Patterns and animals in nature,zebra,striped,zebra,3,4,3,4,3,3,4,3,FALSE,FALSE,FALSE,FALSE
+1,58,Vertical lines,stripes,Striped patterns and zebras,stripes,4,4,3,5,5,5,5,5,TRUE,FALSE,FALSE,FALSE
+1,69,orange,orange,Colorful backgrounds and objects,orange,1,1,4,1,2,2,5,2,FALSE,FALSE,FALSE,FALSE
+1,80,lined,Horizontal lines,stripes,Horizontal lines,3,5,4,5,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+1,82,stripe,stripe,Vertical lines,stripe,1,1,1,1,5,5,5,5,FALSE,TRUE,FALSE,FALSE
+1,103,Text,Text,Black and white patterns,White spaces below black bars,1,1,1,3,1,1,4,3,FALSE,TRUE,FALSE,FALSE
+1,110,pink,pink,pink color,pink,5,5,5,5,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+1,111,Checkerboard patterns,Checkerboard patterns,White dots outlining objects,Checkerboard patterns,4,4,1,4,4,4,1,4,FALSE,FALSE,FALSE,FALSE
+1,120,diving,diving,Underwater and stripes,diving,3,3,4,3,3,3,5,3,FALSE,FALSE,FALSE,FALSE
+1,121,ordered,ordered,white color,white color,1,1,1,1,1,1,2,2,FALSE,TRUE,FALSE,TRUE
+1,127,The outline of the object,The outline of the object,Patterned backgrounds and floors,The outline of the object,2,2,4,2,1,1,3,1,FALSE,FALSE,FALSE,FALSE
+1,130,swirly,swirly,stripped,swirly,3,3,2,3,2,2,5,2,TRUE,TRUE,FALSE,FALSE
+1,140,Black and white patterns,Black and white patterns,Patterns and textures,Black and white patterns,3,3,5,3,4,4,3,4,FALSE,FALSE,FALSE,FALSE
+1,141,Patterns and accessories,zigzagged,Patterns and accessories,zigzagged,1,1,1,1,4,3,4,3,FALSE,TRUE,FALSE,FALSE
+1,150,Miscellaneous items or scenes,Miscellaneous items or scenes,red color,pumpkin,3,3,4,1,4,4,4,1,FALSE,FALSE,FALSE,FALSE
+1,157,polka-dotted,polka-dotted,White spots in pictures,polka-dotted,3,3,4,3,1,1,1,1,TRUE,FALSE,FALSE,TRUE
+1,162,Blue colored objects,Blue and red lines,Everyday objects and scenes,Blue and red lines,2,5,1,5,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+1,164,aa,aa,Yellow and white patterns,Yellow and patterned designs,1,1,3,5,1,1,2,5,FALSE,FALSE,FALSE,FALSE
+1,172,Patterns and objects in space,Patterns and objects in space,Patterns and objects in space,Patterns and objects in space,5,5,5,5,4,4,4,4,FALSE,FALSE,FALSE,FALSE
+1,173,Red-themed decor,Red-themed decor,polka-dotted,Red-themed decor,5,5,1,5,2,2,1,2,FALSE,FALSE,FALSE,FALSE
+1,174,Monochrome and checkered items,Spots of the color white,White dots outlining objects,Spots of the color white,5,5,3,5,4,2,2,2,FALSE,FALSE,FALSE,FALSE
+1,175,zebra,zebra,Patterns and Textures,zebra,2,2,5,2,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+1,180,Red and white colored objects,striped patterns,striped,striped patterns,2,5,5,5,2,5,5,5,FALSE,FALSE,FALSE,FALSE
+1,183,Grid and checkerboard theme,Grid and checkerboard theme,Grid and Checkerboard,Grid and checkerboard theme,4,4,4,4,4,4,4,4,TRUE,FALSE,FALSE,FALSE
+1,188,The color white,The color white,Design elements,The color white,4,4,5,4,2,2,2,2,FALSE,TRUE,FALSE,TRUE
+1,194,grid,grid,Miscellaneous items or scenes,grid,5,5,5,5,4,4,1,4,FALSE,FALSE,FALSE,FALSE
+1,195,Black and white text,Black and white text,Black and metal textures,concrete,4,4,5,2,1,1,4,2,FALSE,FALSE,FALSE,FALSE
+1,199,Black and white patterns,Black and white patterns,Black and white patterns and textures,Black and white patterns,3,3,3,3,3,3,4,3,TRUE,FALSE,FALSE,FALSE
+1,201,Stripes,striped,Black and white patterns,striped,4,4,5,4,3,3,3,3,FALSE,FALSE,TRUE,FALSE
+1,213,Patterns and textures,Patterns and textures,Black and white patterns,Patterns and textures,5,5,3,5,4,4,2,4,FALSE,FALSE,FALSE,FALSE
+1,219,Colorful patterns and objects,Pink and green imagery,color-themed scenes,Pink and green imagery,3,4,3,4,4,3,3,3,TRUE,TRUE,FALSE,FALSE
+1,226,Orange areas in picture,Orange areas in picture,orange color,Orange areas in picture,5,5,5,5,4,4,3,4,FALSE,FALSE,FALSE,FALSE
+1,227,Areas of red,Areas of red,grid,Areas of red,3,3,3,3,1,1,1,1,TRUE,TRUE,TRUE,FALSE
+1,233,pattern,Horizontal lines,Textures and patterns,Horizontal lines,5,2,4,2,4,3,5,3,FALSE,FALSE,FALSE,FALSE
+1,242,Blue and purple objects,Blue and purple objects,blue color,Blue and purple objects,3,3,5,3,5,5,4,5,FALSE,FALSE,FALSE,FALSE
+1,246,White dots outlining objects,White dots outlining objects,Metal and Black Meshes with Holes,White dots outlining objects,2,2,5,2,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+1,248,Space above letters on a sign,Space above letters on a sign,Horizontal lines,Light and dark contrasts,1,1,1,4,2,2,2,4,TRUE,TRUE,FALSE,FALSE
+1,249,nautical,nautical,Spots of the color white,nautical,4,4,3,4,3,3,1,1,FALSE,FALSE,FALSE,FALSE
+1,251,Green nature and objects,Green nature and objects,veined,Green nature and objects,5,5,1,5,4,4,2,4,FALSE,FALSE,FALSE,FALSE
+1,254,mesh,mesh,Stripes,mesh,4,4,3,4,2,2,2,2,TRUE,TRUE,FALSE,TRUE
+2,1,Various patterns and grids,chequered,White dots outlining objects,chequered,5,3,2,3,4,5,3,2,FALSE,FALSE,FALSE,FALSE
+2,15,checker,checker,checker,checker,4,4,4,4,4,4,4,4,FALSE,FALSE,FALSE,FALSE
+2,30,Monochrome visuals,Horizontal lines,Monochrome patterns and textures,Horizontal lines,3,2,4,2,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+2,49,person,person,Patterns and nature motifs,Stripes and patterns,1,1,4,3,1,1,5,4,FALSE,FALSE,FALSE,FALSE
+2,53,Red and white clothing and patterns,Red and white clothing and patterns,Red and white clothing and patterns,Red and white clothing and patterns,3,3,3,3,3,1,4,2,TRUE,FALSE,FALSE,FALSE
+2,57,tread,tread,Textiles and patterns,tread,4,4,4,4,4,4,3,3,TRUE,FALSE,FALSE,FALSE
+2,82,Red colored objects,Red colored objects,Colorful patterns and objects,Red colored objects,4,4,3,4,1,1,5,1,FALSE,FALSE,FALSE,FALSE
+2,86,granite,White dots,metal,White dots,4,1,3,1,1,1,3,1,FALSE,FALSE,FALSE,FALSE
+2,96,Yellow and blue colored objects,wavelength,wavelength,wavelength,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,FALSE
+2,124,wheel,wheel,Metallic and structural elements,wheel,1,1,4,1,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+2,137,Monochrome and metallic patterns,Monochrome and metallic patterns,perforated,Monochrome and metallic patterns,4,4,3,4,4,4,3,4,FALSE,FALSE,FALSE,FALSE
+2,154,Pink and purple patterns,Pink and purple patterns,magenta,Pink and purple patterns,4,4,3,4,4,4,3,4,FALSE,FALSE,FALSE,FALSE
+2,157,person,person,The color blue,Various Objects and Scenes,1,1,1,3,1,1,1,1,FALSE,FALSE,TRUE,FALSE
+2,167,Metal and circular objects,Metal and circular objects,Metal and circular objects,Metal and circular objects,4,4,4,4,1,1,1,1,FALSE,FALSE,FALSE,TRUE
+2,180,silhouette,silhouette,sky,Yellow and blue colored objects,1,1,3,3,1,1,2,1,FALSE,FALSE,FALSE,FALSE
+2,187,Bright yellow colored objects,Bright yellow colored objects,Geometric patterns and animals,Bright yellow colored objects,2,2,3,2,1,1,2,1,FALSE,TRUE,FALSE,FALSE
+2,193,Yellow and blue colored objects,Yellow and blue colored objects,Animal and object descriptions,Yellow and blue colored objects,2,2,3,2,1,1,1,1,FALSE,FALSE,FALSE,TRUE
+2,197,Stop signs and laundromats,Stop signs and laundromats,checker,Monochrome and geometric patterns,1,1,1,3,1,1,3,2,FALSE,FALSE,FALSE,FALSE
+2,211,eye,eye,Dots on the bottom of a object,eye,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+2,219,Black and white textiles,Black and white textiles,Monochrome and Textures,Black and white textiles,4,4,2,4,4,4,2,4,FALSE,FALSE,FALSE,FALSE
+2,220,Spots of the color white,Spots of the color white,Patterns and textures,Spots of the color white,3,3,4,3,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+2,236,mating,mating,Nature and patterns,mating,3,3,4,3,1,1,3,1,FALSE,FALSE,FALSE,FALSE
+2,256,Metal and patterned textiles,Horizontal lines,Metal and patterned textiles,Horizontal lines,5,4,5,4,4,2,4,2,FALSE,FALSE,FALSE,FALSE
+2,257,Design elements,Pale spots,Pale spots,Pale spots,5,3,3,3,3,1,1,1,FALSE,FALSE,FALSE,FALSE
+2,258,Black and metallic textiles,Black and metallic textiles,Dots on the corners of objects,Black and metallic textiles,4,4,3,4,4,4,2,4,FALSE,FALSE,FALSE,FALSE
+2,268,The color red and text,The color red and text,orange color,orange,3,3,3,4,2,2,3,2,FALSE,FALSE,FALSE,FALSE
+2,276,dotted,dotted,Polka dot and studded patterns,dotted,4,4,5,4,4,4,4,4,FALSE,FALSE,FALSE,FALSE
+2,277,Colorful patterns and objects,Colorful patterns and objects,stripe,Colorful patterns and objects,4,4,4,4,5,5,4,5,FALSE,FALSE,FALSE,FALSE
+2,296,waffled,waffled,Textured black and white fabrics,waffled,4,4,4,4,2,2,4,2,TRUE,FALSE,FALSE,FALSE
+2,316,Patterned and perforated designs,Patterned and perforated designs,Patterned perforations,Patterned and perforated designs,5,5,5,5,4,4,3,4,TRUE,FALSE,FALSE,FALSE
+2,329,atmospheric,atmospheric,Visual imagery,atmospheric,4,4,3,4,4,4,3,4,FALSE,FALSE,FALSE,FALSE
+2,334,White dots on corners,White dots on corners,Patterned textiles,White dots on corners,2,2,4,2,1,1,3,1,FALSE,FALSE,FALSE,FALSE
+2,352,Animals in motion,Animals in motion,juvenile,Animals in motion,4,4,2,4,3,3,4,3,FALSE,FALSE,FALSE,FALSE
+2,359,Black and white patterns,Black and white patterns,Checkered and patterned items,Black and white patterns,4,4,5,4,5,5,3,5,FALSE,FALSE,FALSE,FALSE
+2,371,Dots on the corners,Dots on the corners,Monochrome and motion,Dots on the corners,1,1,5,1,1,1,3,1,FALSE,FALSE,FALSE,FALSE
+2,372,segments,segments,White dots outlining objects,motorbike,1,1,1,1,2,2,1,1,FALSE,TRUE,FALSE,FALSE
+2,388,Monochrome and patterns,Monochrome and patterns,Dotted patterns,Monochrome and patterns,3,3,2,3,3,3,1,3,FALSE,TRUE,FALSE,FALSE
+2,400,hostel,hostel,Colorful nature and patterns,Yellow and blue colored objects,2,2,4,5,3,3,2,2,FALSE,FALSE,FALSE,FALSE
+2,401,vegetation,Nature elements,vegetation,Nature elements,5,5,5,5,4,3,4,3,FALSE,FALSE,FALSE,FALSE
+2,430,Colorful clothing and objects,Colorful clothing and objects,red color,Colorful clothing and objects,5,5,3,5,4,4,2,4,FALSE,FALSE,FALSE,FALSE
+2,445,Poles and legs,Checkered and Striped Patterns,Checkerboard patterns,Checkered and Striped Patterns,1,5,4,5,1,5,4,5,FALSE,FALSE,FALSE,FALSE
+2,451,Striped and patterned decor,Striped patterns,Striped and patterned objects,Striped patterns,3,5,3,5,5,4,5,5,FALSE,FALSE,FALSE,FALSE
+2,468,segments,segments,Red objects,Orange areas in picture,4,4,2,4,3,3,1,4,FALSE,FALSE,FALSE,FALSE
+2,476,Areas around items of central focus and edges,Green and black scenes,black color,Green and black scenes,2,5,4,5,3,4,4,4,FALSE,FALSE,FALSE,FALSE
+2,478,striped,striped,Stripes,striped,3,3,3,3,5,5,5,5,FALSE,TRUE,FALSE,FALSE
+2,479,Spots of the color white and text,Spots of the color white and text,Patterned textures,dots,1,1,4,3,3,3,5,4,FALSE,FALSE,FALSE,FALSE
+2,485,The color black dots,The color black dots,The color black dots,The color black dots,3,3,3,3,3,3,3,3,FALSE,TRUE,FALSE,FALSE
+2,490,Red and white objects,Red and white objects,textile,Patterned textiles,2,2,4,5,2,2,4,5,FALSE,FALSE,FALSE,FALSE
+2,499,Yellow and blue colored objects,Yellow and blue colored objects,Spots of the color white,Yellow and blue colored objects,1,1,2,1,1,1,3,1,FALSE,TRUE,FALSE,FALSE
+2,506,Pink-themed accessories,Pink-themed accessories,Red and white objects,Pink-themed accessories,3,3,4,3,5,5,2,5,FALSE,FALSE,FALSE,FALSE
+3,10,Metal containers for food,Metal containers for food,Mesh and Metal Containers,Metal containers for food,1,1,2,1,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+3,21,The pointy tips of things,The pointy tips of things,The pointy tips of things,The pointy tips of things,2,2,2,2,3,3,3,3,FALSE,TRUE,FALSE,FALSE
+3,30,park scene,park scene,trees,park scene,2,2,4,1,2,2,2,2,FALSE,FALSE,FALSE,TRUE
+3,33,Diagonal lines,Diagonal lines,pens,Diagonal lines,3,3,2,3,3,3,2,3,FALSE,TRUE,FALSE,FALSE
+3,69,person,person,Monochrome and textile patterns,Monochrome textures and patterns,1,1,5,5,1,1,4,4,FALSE,FALSE,FALSE,FALSE
+3,71,Green colored objects,Green colored objects,plant,Green colored objects,4,4,3,4,2,2,2,2,FALSE,FALSE,FALSE,TRUE
+3,105,Clothing,Clothing,Various paper textures,wrinkled,3,3,5,5,1,1,3,5,FALSE,FALSE,FALSE,FALSE
+3,126,Circles,Circles,dotted,Circles,3,3,4,3,3,3,5,3,FALSE,FALSE,FALSE,FALSE
+3,169,Textures and patterns,Textures and Patterns,texture,Textures and Patterns,5,5,5,5,5,5,4,5,FALSE,FALSE,FALSE,FALSE
+3,202,Pink and purple flora and food,Pink and purple flora and food,Pink and purple produce and flora,Pink and purple flora and food,3,3,3,3,4,4,4,4,FALSE,TRUE,FALSE,FALSE
+3,215,Items of central focus,Items of central focus,Edges of objects,flecked,1,1,1,1,1,1,2,2,FALSE,TRUE,FALSE,TRUE
+3,246,freckled,freckled,Colors and textiles,freckled,2,2,5,4,1,1,2,1,FALSE,FALSE,FALSE,TRUE
+3,263,Circular objects,Circular objects,Polka dot patterns,Circular objects,2,2,4,1,3,3,2,3,FALSE,FALSE,FALSE,FALSE
+3,284,Visual imagery,Visual imagery,Visual imagery,Visual imagery,1,1,1,1,2,2,2,2,FALSE,TRUE,FALSE,TRUE
+3,304,dog,dog,Dog heads,dog,2,2,2,2,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+3,347,Corn-themed dishes,Corn-themed dishes,corn and food-related items,Corn-themed dishes,1,1,3,1,3,3,4,3,FALSE,TRUE,FALSE,FALSE
+3,349,People,People,Black and gray textures,monochromatic textures,1,1,5,4,2,2,4,3,FALSE,FALSE,FALSE,FALSE
+3,351,flower,flower,flower,flower,4,4,4,4,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+3,385,mesh,mesh,meshed,mesh,3,3,3,3,3,3,3,3,FALSE,FALSE,TRUE,FALSE
+3,393,Arches,Arches,Architectural structures,Arches,3,3,2,3,3,3,4,3,FALSE,FALSE,FALSE,FALSE
+3,412,Green colored objects,Green colored objects,zigzagged,Green colored objects,1,1,5,1,1,1,5,1,FALSE,FALSE,FALSE,FALSE
+3,476,Monochrome and religious architecture,Monochrome and religious architecture,Monochrome and religious architecture,Monochrome and religious architecture,2,2,2,2,3,3,3,3,FALSE,TRUE,FALSE,TRUE
+3,487,Orange and red objects,Orange and red objects,Patterns and Textures,Orange and red objects,1,1,5,1,2,2,4,2,FALSE,FALSE,FALSE,FALSE
+3,491,wheel,wheel,arteries,wheel,1,1,1,1,1,1,2,1,FALSE,TRUE,FALSE,TRUE
+3,519,Various visual scenes,Various visual scenes,grass,Various visual scenes,2,2,1,2,3,3,1,3,FALSE,TRUE,TRUE,FALSE
+3,530,Rounded edges in pictures,Rounded edges in pictures,Textures and materials,Rounded edges in pictures,2,2,2,2,3,3,5,3,FALSE,TRUE,FALSE,FALSE
+3,554,web,tile,web,tile,3,3,3,3,4,3,4,3,FALSE,TRUE,FALSE,FALSE
+3,606,waffled,waffled,Faces of animals,waffled,4,4,1,4,4,4,2,2,FALSE,FALSE,FALSE,FALSE
+3,627,garrison,garrison,Food items,seat cushion,1,1,4,2,1,1,5,1,FALSE,FALSE,FALSE,FALSE
+3,682,The tops of objects,The tops of objects,forests,forests,1,1,5,5,3,3,5,5,FALSE,FALSE,FALSE,FALSE
+3,707,Dog heads,Dog heads,muzzle,Dog heads,3,3,4,3,2,2,2,2,FALSE,FALSE,FALSE,TRUE
+3,709,White lace and music theme,White lace and music theme,dotted,White lace and music theme,1,1,2,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+3,727,body,body,Colorful textiles,Colorful textiles and accessories,1,1,5,5,1,1,4,5,FALSE,FALSE,FALSE,FALSE
+3,735,windowpane,library,windowpane,library,3,2,3,2,2,2,2,2,FALSE,FALSE,TRUE,FALSE
+3,755,leg,leg,leg,leg,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+3,797,Circular objects,speakers,speakers,speakers,3,2,2,2,1,4,4,4,FALSE,FALSE,FALSE,FALSE
+3,799,house,house,The corners of objects,house,1,1,3,1,1,1,1,1,FALSE,FALSE,FALSE,TRUE
+3,827,Stripes,Stripes,Stripes,Stripes,3,3,3,3,3,3,3,3,FALSE,TRUE,FALSE,FALSE
+3,828,food,food,cages,food,2,2,5,2,3,3,3,3,FALSE,FALSE,TRUE,FALSE
+3,848,Birds,Birds,Black and white colored objects,Birds,1,1,5,1,1,1,5,1,FALSE,FALSE,FALSE,FALSE
+3,861,Enclosures and furnishings,upstairs,Red and white colored objects,upstairs,2,1,1,1,2,1,1,1,FALSE,FALSE,FALSE,FALSE
+3,865,Metallic and Geometric Designs,Metallic and Geometric Designs,The color black,Metallic and Geometric Designs,4,4,2,4,5,5,2,5,FALSE,FALSE,FALSE,FALSE
+3,888,hair,hair,Animal fur,hair,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+3,889,Spots of the color white,Spots of the color white,Spots of the color white,Spots of the color white,3,3,3,3,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+3,920,Scenic landscapes and cityscapes,Scenic landscapes and cityscapes,Roads and Landscapes,Scenic landscapes and cityscapes,5,5,5,5,4,4,5,4,FALSE,FALSE,FALSE,FALSE
+3,928,captive,captive,Circular objects,Dog heads,3,3,2,3,3,3,1,3,TRUE,FALSE,TRUE,FALSE
+3,974,dots,Patterns and textures,dots,Patterns and textures,5,4,5,4,2,5,2,5,FALSE,FALSE,FALSE,FALSE
+3,995,Animal-inspired textures and scenes,geology,geology,geology,5,2,2,2,3,2,2,2,FALSE,FALSE,FALSE,FALSE
+3,999,Colorful and Geometric Patterns,Colorful and Geometric Patterns,Colorful and Geometric Patterns,Colorful and Geometric Patterns,5,5,5,5,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+3,1018,Circular objects,Circular objects,maize,Circular objects,4,4,3,4,3,3,2,3,FALSE,FALSE,FALSE,FALSE
+4,63,bus,Dog faces,espresso,Dog faces,2,1,4,1,1,1,2,1,FALSE,FALSE,FALSE,TRUE
+4,162,Wheels,bicycles,bicycles,bicycles,4,5,5,5,3,5,5,5,FALSE,FALSE,FALSE,FALSE
+4,169,"People, domes",Church interiors,Church interiors,Church interiors,3,4,4,4,2,4,4,4,FALSE,FALSE,FALSE,FALSE
+4,185,Greenery and feathers,Greenery and feathers,Diagonal lines,Greenery and feathers,3,3,2,3,5,5,2,5,FALSE,FALSE,FALSE,FALSE
+4,199,Black and White Objects,fasteners,Black and White Objects,fasteners,1,2,1,2,2,1,2,1,FALSE,TRUE,TRUE,FALSE
+4,222,Items with straight features,Items with straight features,Nature and Wildlife,mating,1,1,3,1,1,1,3,1,FALSE,FALSE,FALSE,FALSE
+4,229,Indoor Spaces,Indoor Spaces,Indoor Spaces,Indoor Spaces,4,4,4,4,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+4,238,corridors,corridors,corridors,corridors,3,3,3,3,3,3,3,3,FALSE,FALSE,FALSE,FALSE
+4,336,gong,gong,Balls,Balls,2,2,2,2,1,1,2,2,FALSE,TRUE,FALSE,TRUE
+4,457,radiator,radiator,body,radiator,2,2,1,2,1,1,1,1,FALSE,TRUE,TRUE,FALSE
+4,475,manufacturer,manufacturer,manufacturer,manufacturer,1,1,1,1,1,1,1,1,FALSE,TRUE,TRUE,FALSE
+4,492,Ice cream and bulls,Ice cream and bulls,Textiles and nature,orgy,1,1,3,1,1,1,2,1,FALSE,TRUE,FALSE,TRUE
+4,497,Circular objects,microphones,microphones,microphones,2,1,1,1,1,1,1,1,FALSE,TRUE,TRUE,FALSE
+4,529,cobra,cobra,Reptiles and mammals,scaly,5,5,4,4,5,5,3,3,FALSE,FALSE,FALSE,FALSE
+4,571,infant,infant,babies and snakes,infant,3,3,5,3,3,3,5,3,FALSE,FALSE,FALSE,FALSE
+4,579,bathroom,bathroom,Water fountain,bathroom,1,1,3,1,1,1,3,1,FALSE,TRUE,FALSE,FALSE
+4,690,Technology and entertainment setup,monitors,monitors,monitors,5,4,4,4,4,5,5,5,FALSE,FALSE,FALSE,FALSE
+4,738,tackling,tackling,tackling,tackling,3,3,3,3,2,2,2,2,FALSE,TRUE,TRUE,FALSE
+4,744,Items that are connected,Items that are connected,Snakes in various settings,Snakes in various settings,2,2,3,3,1,1,4,4,FALSE,FALSE,FALSE,FALSE
+4,754,knives,knives,knives,knives,3,3,3,3,3,3,3,3,FALSE,TRUE,FALSE,FALSE
+4,762,carpet,carpet,Circular objects,carpet,4,4,2,4,4,4,1,4,FALSE,FALSE,FALSE,FALSE
+4,827,ibis,ibis,ibis,ibis,3,3,3,3,1,1,1,1,FALSE,TRUE,TRUE,FALSE
+4,838,"A tennis ball a kid is holding, a kid blowing bubbles","A tennis ball a kid is holding, a kid blowing bubbles","A tennis ball a kid is holding, a kid blowing bubbles","A tennis ball a kid is holding, a kid blowing bubbles",1,1,1,1,1,1,1,1,FALSE,TRUE,TRUE,FALSE
+4,854,Shoes and bathroom accessories,Shoes and bathroom accessories,Shoes and related items,Shoes and bathroom accessories,4,4,3,4,5,5,5,5,FALSE,FALSE,FALSE,FALSE
+4,855,stair,stair,stair,stair,3,3,3,3,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+4,904,Animals,Animals,Patterns and colors in decor,Animals,1,1,3,1,1,1,5,1,TRUE,FALSE,FALSE,FALSE
+4,916,A dome,geodesic_dome-outdoor scene,Sports and Objects,geodesic_dome-outdoor scene,2,1,2,1,1,1,3,1,FALSE,FALSE,TRUE,FALSE
+4,938,vest,vest,Bathroom and clothing items,vest,1,1,2,1,1,1,3,1,TRUE,FALSE,TRUE,FALSE
+4,939,zebra,Fencing,Fencing,Fencing,2,2,2,2,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+4,954,vests,vests,Baby clothing and toys,vests,1,1,2,1,1,1,4,1,TRUE,FALSE,FALSE,FALSE
+4,967,lighthouse scene,lighthouse scene,Metal objects and accessories,lighthouse scene,1,1,2,1,1,1,1,1,TRUE,FALSE,FALSE,TRUE
+4,981,bubbles,bubbles,bubbly,bubbles,5,5,5,5,4,4,2,4,FALSE,FALSE,FALSE,FALSE
+4,1008,reptiles,reptiles,reptiles,reptiles,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+4,1013,Items with straight features,Items with straight features,dams,dams,1,1,2,2,1,1,3,3,FALSE,FALSE,FALSE,FALSE
+4,1056,uniforms,uniforms,Sports and clothing,muzzle,3,3,4,1,1,1,4,1,FALSE,FALSE,FALSE,FALSE
+4,1067,Garden creatures,Garden creatures,slug,Garden creatures,2,2,4,2,4,4,4,4,FALSE,FALSE,FALSE,FALSE
+4,1099,combines,combines,Transportation and Machinery,Transportation and Storage Equipment,1,1,3,4,1,1,4,4,FALSE,FALSE,FALSE,FALSE
+4,1228,fountains,fountains,Fountains and Waterways,fountains,5,5,5,5,4,4,4,4,FALSE,FALSE,FALSE,FALSE
+4,1261,collier,collier,cat,Faces of things,1,1,1,1,1,1,1,1,TRUE,TRUE,FALSE,TRUE
+4,1269,Signs and signs,Signs and signs,Police presence and signage,ambulance,4,4,3,3,2,2,4,3,FALSE,FALSE,FALSE,FALSE
+4,1287,Poles and legs,Poles and legs,flecked,Poles and legs,4,4,1,4,2,2,1,2,FALSE,FALSE,FALSE,TRUE
+4,1331,People,People,cosmetics,cosmetics,1,1,3,3,1,1,4,4,FALSE,FALSE,FALSE,FALSE
+4,1335,Photography equipment,Photography equipment,minolta,Photography equipment,5,5,4,5,5,5,3,5,FALSE,FALSE,FALSE,FALSE
+4,1337,Circular objects,Black and white colored objects,Circular objects,Black and white colored objects,1,2,1,2,1,2,1,2,FALSE,TRUE,FALSE,TRUE
+4,1599,paisley,paisley,paisley,paisley,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+4,1627,blanca,blanca,White birds and nature,airplane,2,2,3,4,4,4,3,1,FALSE,FALSE,FALSE,FALSE
+4,1707,Items with straight features,Items with straight features,shoe_shop scene,shoe_shop scene,1,1,1,1,1,1,1,1,FALSE,TRUE,FALSE,TRUE
+4,1777,drawers,drawers,drawers,drawers,3,3,3,3,1,1,1,1,FALSE,FALSE,FALSE,TRUE
+4,1876,Harp and Harpists,Harp and Harpists,harp,Harp and Harpists,5,5,5,5,3,3,4,3,FALSE,FALSE,FALSE,FALSE
+4,1891,terrier,terrier,Animal and pattern observations,terrier,1,1,3,1,1,1,1,1,TRUE,FALSE,FALSE,TRUE
